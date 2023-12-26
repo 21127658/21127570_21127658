@@ -1,1 +1,1 @@
-print('Hello, 21MMT!')
+print('Hello, MMTNC!')
